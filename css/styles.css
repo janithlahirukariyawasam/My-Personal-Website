@@ -71,14 +71,18 @@ h3 {
 
 .janithis{
   font-family: monospace;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .janithskills{
   font-family: monospace;
-  font-size: 30px;
+  font-size: 20px;
 }
 
+.education{
+  font-family: monospace;
+  font-size: 20px;
+}
 .profile{
 
 }
@@ -87,18 +91,28 @@ h3 {
 
 }
 
-.skill-row{
+.school{
 
 }
 
-.contact-me{
+.campus{
 
+}
+.getin{
+padding-top: 50px;
+}
+.contact-me{
+  background-color: #CDF2CA;
+  margin: 0;
 }
 
 .btn{
-
+  background-color: #CDF2CA;
+  margin: 0;
 }
 
 .bottom-container{
-
+  background-color: #CDF2CA;
+  margin: 0;
+  padding-bottom: 50px;
 }
