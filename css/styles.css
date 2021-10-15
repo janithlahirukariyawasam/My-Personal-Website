@@ -26,9 +26,9 @@ body {
 .aboutjanith {
   color: black;
   font-family: monospace;
-  font-size: 20px;
+  font-size: 25px;
 
-  width: 35%;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
   padding: 30px;
@@ -106,8 +106,6 @@ h3 {
 .education {
   font-family: monospace;
   font-size: 20px;
-  width: 70%;
-  margin: auto;
   text-align: left;
   padding-bottom: 50px;
 }
@@ -117,20 +115,29 @@ h3 {
   font-size: 30px;
   padding-top: 50px;
   padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
-.profile {}
+.profile {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .skills {}
 
 .school {}
 
-.campus {}
+.campus {
+
+}
 
 .maris {
   width: 10%;
   float: left;
   margin-right: 30px;
+
 }
 
 .university {
