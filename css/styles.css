@@ -101,6 +101,7 @@ h3 {
 .janithskills {
   font-family: monospace;
   font-size: 30px;
+  margin-bottom: 50px;
 }
 
 .education {
@@ -125,7 +126,11 @@ h3 {
   margin-right: auto;
 }
 
-.skills {}
+.skill-row {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
 
 .school {}
 
