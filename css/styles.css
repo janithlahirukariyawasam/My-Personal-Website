@@ -15,6 +15,10 @@ body {
   font-size: 16px;
   margin-bottom: 30px;
 }
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
 
 .programmer {
   font-family: monospace;
@@ -196,7 +200,7 @@ h3 {
 .schoolmaris {
   font-family: monospace;
   font-size: 20px;
-  position: absolute;
+
 
 }
 
