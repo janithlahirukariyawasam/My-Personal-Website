@@ -205,6 +205,7 @@ h3 {
 .schoolmaris {
   font-family: monospace;
   font-size: 20px;
+  text-align: right;
 }
 
 
@@ -212,6 +213,7 @@ h3 {
   font-family: monospace;
   font-size: 16px;
   color: grey;
+  text-align: right;
 }
 
 .flutter{
