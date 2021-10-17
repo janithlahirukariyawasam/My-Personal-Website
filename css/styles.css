@@ -28,6 +28,8 @@ body {
   color: grey;
 }
 
+
+
 hr {
   border: dotted #F9F3DF 10px;
   border-bottom: none;
@@ -106,12 +108,13 @@ h3 {
   font-family: monospace;
   font-size: 30px;
   margin-bottom: 30px;
-  margin-top: 30px;
+  margin-top: 100px;
 }
 
 .janithskills {
   font-family: monospace;
   font-size: 30px;
+  margin-bottom: 100px;
 }
 
 .education {
@@ -125,7 +128,7 @@ h3 {
   font-family: monospace;
   font-size: 30px;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -155,6 +158,7 @@ h3 {
 
 .both {
   text-align: center;
+
 }
 
 .maris {
@@ -185,7 +189,8 @@ h3 {
 .bottom-container {
   background-color: #CDF2CA;
   margin: 0;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
+  padding-top: 50px;
 }
 
 .degree {
@@ -201,7 +206,7 @@ color: black;
 .degreedescription {
     font-family: monospace;
   font-size: 16px;
-  color: grey;
+  color: #C9CCD5;
   margin-left: 20%;
   margin-right: 20%;
 
@@ -223,7 +228,7 @@ color: black;
 .schoolyear {
   font-family: monospace;
   font-size: 16px;
-  color: grey;
+  color: #C9CCD5;
   margin-left: 20%;
   margin-right: 20%;
 }
@@ -245,4 +250,28 @@ color: black;
 
 img {
   margin: 10px;
+}
+
+.janithprojects{
+  font-family: monospace;
+  font-size: 30px;
+  margin-bottom: 100px;
+  margin-top: 30px;
+}
+
+.contact-me{
+  background-color: white;
+  margin: 100px;
+
+}
+
+.getin{
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  font-size: 40px;
+
+}
+
+.github{
+  width: 64px;
 }
