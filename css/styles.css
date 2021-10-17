@@ -160,6 +160,7 @@ h3 {
 .maris {
   width: 100px;
   margin-left: 30px;
+
 }
 
 .university {
@@ -188,18 +189,22 @@ h3 {
 }
 
 .degree {
-  font-family: monospace;
+color: black;
   font-size: 20px;
   margin-left: 20%;
   margin-right: 20%;
+  font-family: monospace monospace;
+
+
 }
 
 .degreedescription {
-  font-family: monospace;
+    font-family: monospace;
   font-size: 16px;
   color: grey;
   margin-left: 20%;
   margin-right: 20%;
+
 }
 
 .spanone {
@@ -207,7 +212,7 @@ h3 {
 }
 
 .schoolmaris {
-  font-family: monospace;
+
   font-size: 20px;
   text-align: center;
   padding-top: 15px;
