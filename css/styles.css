@@ -26,7 +26,13 @@ body {
   color: grey;
 
 }
-
+hr{
+  border: dotted #F9F3DF 10px;
+  border-bottom: none;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 10%;
+}
 .aboutjanith {
   color: black;
   font-family: monospace;
@@ -206,6 +212,7 @@ h3 {
   font-family: monospace;
   font-size: 20px;
   text-align: right;
+  padding-top: 15px;
 }
 
 
