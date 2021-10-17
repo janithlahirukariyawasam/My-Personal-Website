@@ -5,7 +5,7 @@ body {
 }
 
 .button {
-  background-color:#F9F3DF ;
+  background-color: #F9F3DF;
   border: none;
   color: black;
   padding: 15px 32px;
@@ -15,8 +15,10 @@ body {
   font-size: 16px;
   margin-bottom: 30px;
 }
+
 .button:hover {
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50;
+  /* Green */
   color: white;
 }
 
@@ -24,25 +26,24 @@ body {
   font-family: monospace;
   font-size: 30px;
   color: grey;
-
 }
-hr{
+
+hr {
   border: dotted #F9F3DF 10px;
   border-bottom: none;
   margin-top: 100px;
   margin-bottom: 100px;
   width: 10%;
 }
+
 .aboutjanith {
   color: black;
   font-family: monospace;
   font-size: 30px;
-
   width: 60%;
   margin-left: auto;
   margin-right: auto;
   padding: 30px;
-
 }
 
 h1 {
@@ -111,7 +112,6 @@ h3 {
 .janithskills {
   font-family: monospace;
   font-size: 30px;
-
 }
 
 .education {
@@ -153,23 +153,17 @@ h3 {
   margin-right: auto;
 }
 
-.both{
-  margin-left: 25%;
-  margin-right: 25%;
+.both {
   text-align: center;
 }
 
 .maris {
   width: 100px;
-
   margin-left: 30px;
-
-
 }
 
 .university {
   width: 100px;
-
   margin-right: 30px;
 }
 
@@ -196,12 +190,16 @@ h3 {
 .degree {
   font-family: monospace;
   font-size: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .degreedescription {
   font-family: monospace;
   font-size: 16px;
   color: grey;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .spanone {
@@ -211,33 +209,35 @@ h3 {
 .schoolmaris {
   font-family: monospace;
   font-size: 20px;
-
+  text-align: center;
   padding-top: 15px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
-
 
 .schoolyear {
   font-family: monospace;
   font-size: 16px;
   color: grey;
-
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
-.flutter{
+.flutter {
   width: 64px;
   margin: 10px;
 }
 
-.dart{
+.dart {
   width: 64px;
   margin: 10px;
 }
 
-.pandas{
+.pandas {
   margin: 10px;
-  width:64px;
+  width: 64px;
 }
 
-img{
+img {
   margin: 10px;
 }
