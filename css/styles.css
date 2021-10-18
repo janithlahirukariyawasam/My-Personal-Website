@@ -277,7 +277,7 @@ img {
 }
 
 .android{
-  width: 20%;
+  width: 30%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -285,9 +285,9 @@ img {
 }
 
 .ai{
-  width: 13%;
+  width: 20%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
+  margin-top: 75px;
 }
