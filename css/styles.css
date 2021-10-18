@@ -275,3 +275,19 @@ img {
 .github{
   width: 64px;
 }
+
+.android{
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.ai{
+  width: 13%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
