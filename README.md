@@ -1,7 +1,7 @@
 # My-Personal-Website
 https://janithlahirukariyawasam.github.io/My-Personal-Website/
 #
-#Sample Screen Shots
+# Sample Screen Shots
 ![Screenshot 2021-10-18 110056](https://user-images.githubusercontent.com/88109775/137674573-81d41e45-cd7b-41d3-a773-2182af6e3aea.png)
 #
 ![Screenshot 2021-10-18 110118](https://user-images.githubusercontent.com/88109775/137674592-b003e014-6676-4221-a129-c7780dba9e9b.png)
